@@ -1,2 +1,2 @@
-# Robot-Code-Template
-Template Project for our team's robot code, currently in-progress
+# Core System Code
+Code for the core system project
